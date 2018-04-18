@@ -1,0 +1,6 @@
+export const WS_URL = "ws://serene-reaches-28583.herokuapp.com/"
+export const DARK = "#262626"
+export const RED = "#B2001A"
+export const BLUE = "#1762B7"
+export const LIGHT_BLUE = "#7EA3CC"
+export const BEIGE = "#CCAD8F"
